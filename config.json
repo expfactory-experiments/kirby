@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "tsk_4a57abb949e98",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/kirby",
+    "contributors": [
+        "Zeynep Enkavi",
+        "Ian Eisenberg",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "kirby",
+    "name": "Kirby Task",
+    "reference": ["http://link.springer.com/article/10.3758/BF03210748"],
+    "template": "jspsych",
+    "time": 5
+}
